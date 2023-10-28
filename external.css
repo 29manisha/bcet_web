@@ -1,0 +1,111 @@
+body{
+    background-image:url('hhhh.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+
+}
+/* h1{
+    text-shadow: red hsla(0.7, 0.9, 0.5, 0.5);
+    text-align: center;
+} */
+#top{
+    text-align: center;
+
+}
+section #a{
+    /* float: right; */
+    color: rgb(0, 0, 0);
+    padding-top: 100px;
+    display: flex;
+    justify-content: flex-end;
+}
+li{
+    list-style: none;
+}
+/* li::before{
+    content:"\00bb ";
+} */
+#ac{
+    background-color: aqua;
+    border: 2px solid black;
+    color: blue;
+    width: 40rem;
+}
+#logo{
+    height: 40px;
+    width: 40px;
+}
+.det{
+    text-align:right;
+}
+#branches{
+    background-color:white;
+    
+    text-align: center;
+}
+#foot{
+    position:fixed;
+    bottom: 5px;
+    color: blanchedalmond;
+    }
+mark{
+    background-color: rgb(121, 236, 27);
+}
+.faculty{
+    background-color: aqua;
+    text-align:justify;
+    color: black;
+    border: 5px solid black;
+}
+
+#xyz{
+    border: 2px solid black;
+    background-color: orchid;
+    height: 80px;
+    width: 45rem;
+    font-size: 25px;
+    text-align: center;
+    border-collapse: collapse;
+  
+    }
+td{
+    border: 2px solid black;
+    vertical-align: middle;
+}
+
+#acsec{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: aqua;
+    font-size: 30px;
+    
+}
+details summary{
+    cursor: pointer;
+}
+#marks{
+    border: 2px solid blueviolet;
+}
+#b{
+    padding-top: 90px;
+  
+}
+#top h1{
+    animation: colorchange 8s infinite;
+    rotate: 3d;
+    font-style: oblique 23deg;
+    font-size: 200px;
+}
+@keyframes colorchange{
+    from {background-color: red;}
+  to {background-color: blue;}
+}
+#c{
+    padding-top: 30px;
+    
+}
+*{
+   font-size: 100px;
+}

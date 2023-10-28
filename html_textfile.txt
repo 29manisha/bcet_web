@@ -1,0 +1,1305 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BCET</title>
+    <link rel="icon" href="hhhh.png">
+    <link rel="stylesheet" href="external.css">
+</head>
+
+<body>
+    <header id="top">
+        <h1 style="font-size: 50px;"><img src="BCET_Logo.jpg" height="50px" width="50px">Bangalore College of Engineering and Technology</h1>
+        <p style="font-size: 25px;">Opposite Heelalige Railway Station,
+            Hosur Road, Chandapura,
+            Bengaluru, 560099</p>
+        <a id="link" href="https://bcet.co.in/">
+            <marquee direction="right" behavior="alternate"><mark>COLLEGE official website</mark></marquee>
+        </a>
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.4657399362977!2d77.70850864906721!3d12.81315279091562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6d7380c555e3%3A0x86a0935277e44dfc!2sBangalore%20College%20Of%20Engineering%20And%20Technology!5e0!3m2!1sen!2sin!4v1677695221744!5m2!1sen!2sin"
+            allowfullscreen="" loading="lazy" height="80px" width="1000px" referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+    </header>
+    <hr>
+    <section id="b">
+        <table id="xyz">
+            <tr>
+                <ul>
+                    <td>
+                        <li>
+                            <details>
+                                <summary>Courses Offered</summary>
+                                <ol>
+                                    <div id="branches">
+                                        <li><u>Bachelors of Engineering</u></li>
+                                        <li>CSE</li>
+                                        <li>EEE</li>
+                                        <li>AIML</li>
+                                        <li>ECE</li>
+                                        <li>ISE</li>
+                                    </div>
+                                </ol>
+                            </details>
+                        </li>
+                    </td>
+                    <td>
+                        <li>
+                            <details>
+                                <summary>Placement Cell</summary><a
+                                    href="https://bcet.co.in/wp-content/uploads/2020/01/placement-img.jpg">companies</a>
+                            </details>
+                        </li>
+                    </td>
+                    <td>
+                        <li>
+                            <details>
+                                <summary>Student Details</summary>
+                                <ol>
+                                    <li>
+                                        <details>
+                                            <summary>1st Year</summary>
+                                            <ul><table><tr><td>
+                                                <button>
+                                                    <details>
+                                                        <summary>Section A</summary>
+                                                        <ol>
+                                                            <li>Manisha kumari</li>
+                                                            <li>Namratha B K</li>
+                                                            <li>Kavya C K</li>
+                                                            <li>Pavithra k</li>
+                                                            <li>Renu N B Patil</li>
+                                                            <li>Monisha K</li>
+                                                            <li>Deekshita</li>
+                                                            <li>Sarika</li>
+                                                            <li>Kavya M</li>
+                                                            <li>Priya</li>
+                                                            <li>Suchita</li>
+                                                            <li>Preeti</li>
+                                                            <li>Bindu</li>
+                                                            <li>Sindhu</li>
+                                                            <li>Chandramukhi</li>
+                                                            <li>Deepika</li>
+                                                            <li>Afiya Mariyam</li>
+                                                            <li>Geeta</li>
+                                                            <li>Malathi</li>
+                                                            <li>Jyoti Ranjan</li>
+                                                            <li>Abhisek Kumar</li>
+                                                            <li>Naveen</li>
+                                                            <li>Talha</li>
+                                                            <li>Dhanush</li>
+                                                            <li>Ranjit</li>
+                                                            <li>Madhu charan</li>
+                                                            <li>Akshay</li>
+                                                            <li>Shivang</li>
+                                                            <li>Hayder Ali</li>
+                                                            <li>Darshan</li>
+                                                            <li>shaheed</li>
+                                                            <li>pawan</li>
+                                                            <li>Sanjay</li>
+                                                        </ol>
+                                                    </details>
+                                                </button></td>
+                                                <td><button>
+                                                    <details>
+                                                        <summary>Section B</summary>
+                                                        <ul>
+                                                            <li>Rachana</li>
+                                                            <li>Sneha N</li>
+                                                            <li>Diya</li>
+                                                            <li>Asha</li>
+                                                            <li>Subroto</li>
+                                                            <li>Sumama</li>
+                                                            <li>Chaitra</li>
+                                                            <li>Suprita</li>
+                                                        </ul>
+                                                    </details>
+                                                </button></td></tr></table>
+                                            </ul>
+                                        </details>
+                                    </li>
+                                    <li>
+                                        <details>
+                                            <summary>2nd Year</summary>
+                                        </details>
+                                    </li>
+                                    <li>
+                                        <details>
+                                            <summary>3rd Year</summary>
+                                        </details>
+                                    </li>
+                                    <li>
+                                        <details>
+                                            <summary>4th Year</summary>
+                                        </details>
+                                    </li>
+                                </ol>
+                            </details>
+                        </li>
+                    </td>
+                    <td>
+                        <li>
+                            <details>
+                                <summary>Exam Details</summary>
+                                <ol>
+                                    <li>
+                                        <details>
+                                            <summary>1st year Exams</summary>
+                                            <ul>
+                                                <li>
+                                                    <details>
+                                                        <summary> Sem 1</summary><u>Subjects</u>
+                                                        <ol>
+                                                            <li>
+                                                                <details>
+                                                                    <summary>Mathematics</summary>
+                                                                    <table id="marks">
+                                                                        <tr>
+                                                                            <td>Students</td>
+                                                                            <td>1st Internal</td>
+                                                                            <td>2nd Internal</td>
+                                                                            <td>3rd Internal</td>
+                                                                            <td>Final Exam</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Manisha Kumari</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Kavya ck</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Namratha bk</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Renu nb patil</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Pavithra k</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 6</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 7</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 8</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 9</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 10</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 11</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 12</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 13</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 14</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 15</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 16</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 17</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 18</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 19</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 20</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 21</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 22</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 23</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 24</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 25</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 26</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 27</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 28</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 29</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>Student 30</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </details>
+                                                            </li>
+                                                            <li><details>
+                                                                <summary>Chemistry</summary>
+                                                                <table id="marks">
+                                                                    <tr>
+                                                                        <td>Students</td>
+                                                                        <td>1st Internal</td>
+                                                                        <td>2nd Internal</td>
+                                                                        <td>3rd Internal</td>
+                                                                        <td>Final Exam</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Manisha Kumari</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Kavya ck</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Namratha bk</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Renu nb patil</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Pavithra k</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 6</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 7</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 8</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 9</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 10</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 11</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 12</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 13</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 14</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 15</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 16</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 17</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 18</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 19</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 20</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 21</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 22</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 23</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 24</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 25</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 26</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 27</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 28</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 29</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 30</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                </table>
+                                                            </details></li>
+                                                            <li><details>
+                                                                <summary>PLC</summary>
+                                                                <table id="marks">
+                                                                    <tr>
+                                                                        <td>Students</td>
+                                                                        <td>1st Internal</td>
+                                                                        <td>2nd Internal</td>
+                                                                        <td>3rd Internal</td>
+                                                                        <td>Final Exam</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Manisha Kumari</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Kavya ck</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Namratha bk</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Renu nb patil</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Pavithra k</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 6</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 7</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 8</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 9</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 10</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 11</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 12</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 13</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 14</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 15</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 16</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 17</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 18</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 19</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 20</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 21</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 22</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 23</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 24</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 25</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 26</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 27</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 28</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 29</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 30</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                </table>
+                                                            </details></li>
+                                                            <li><details>
+                                                                <summary>ESC</summary>
+                                                                <table id="marks">
+                                                                    <tr>
+                                                                        <td>Students</td>
+                                                                        <td>1st Internal</td>
+                                                                        <td>2nd Internal</td>
+                                                                        <td>3rd Internal</td>
+                                                                        <td>Final Exam</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Manisha Kumari</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Kavya ck</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Namratha bk</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Renu nb patil</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Pavithra k</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 6</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 7</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 8</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 9</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 10</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 11</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 12</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 13</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 14</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 15</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 16</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 17</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 18</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 19</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 20</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 21</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 22</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 23</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 24</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 25</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 26</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 27</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 28</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 29</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Student 30</td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                    </tr>
+                                                                </table>
+                                                            </details></li>
+                                                            <li>CAED</li>
+                                                            <li>ICO</li>
+                                                            <li>SFH</li>
+                                                            <li>English</li>
+                                                        </ol>
+                                                    </details>
+                                                </li>
+                                                <li>
+                                                    <details>
+                                                        <summary> Sem 2</summary><u>Subjects</u>
+                                                        <ol>
+                                                            <li>Sub 1</li>
+                                                            <li>Sub 2</li>
+                                                            <li>Sub 3</li>
+                                                            <li>Sub 4</li>
+                                                            <li>Sub 5</li>
+                                                        </ol>
+                                                    </details>
+                                                </li>
+                                            </ul>
+                                        </details>
+                                    </li>
+                                    <li>
+                                        <details>
+                                            <summary>2nd year Exams</summary>
+                                            <ul>
+                                                <li>
+                                                    <details>
+                                                        <summary> Sem 3</summary><u>Subjects</u>
+                                                        <ol>
+                                                            <li>Sub 1</li>
+                                                            <li>Sub 2</li>
+                                                            <li>Sub 3</li>
+                                                            <li>Sub 4</li>
+                                                            <li>Sub 5</li>
+
+                                                        </ol>
+                                                    </details>
+                                                </li>
+                                                <li>
+                                                    <details>
+                                                        <summary> Sem 4</summary><u>Subjects</u>
+                                                        <ol>
+                                                            <li>Sub 1</li>
+                                                            <li>Sub 2</li>
+                                                            <li>Sub 3</li>
+                                                            <li>Sub 4</li>
+                                                            <li>Sub 5</li>
+                                                        </ol>
+                                                    </details>
+                                                </li>
+                                            </ul>
+                                        </details>
+                                    </li>
+                                    <li>
+                                        <details>
+                                            <summary>3rd year Exams</summary>
+                                            <ul>
+                                                <li>
+                                                    <details>
+                                                        <summary> Sem 5</summary><u>Subjects</u>
+                                                        <ol>
+                                                            <li>Sub 1</li>
+                                                            <li>Sub 2</li>
+                                                            <li>Sub 3</li>
+                                                            <li>Sub 4</li>
+                                                            <li>Sub 5</li>
+                                                        </ol>
+                                                    </details>
+                                                </li>
+                                                <li>
+                                                    <details>
+                                                        <summary> Sem 6</summary><u>Subjects</u>
+                                                        <ol>
+                                                            <li>Sub 1</li>
+                                                            <li>Sub 2</li>
+                                                            <li>Sub 3</li>
+                                                            <li>Sub 4</li>
+                                                            <li>Sub 5</li>
+                                                        </ol>
+                                                    </details>
+                                                </li>
+                                            </ul>
+                                        </details>
+                                    </li>
+                                    <li>
+                                        <details>
+                                            <summary>4th year Exams</summary>
+                                            <ul>
+                                                <li>
+                                                    <details>
+                                                        <summary> Sem 7</summary><u>Subjects</u>
+                                                        <ol>
+                                                            <li>Sub 1</li>
+                                                            <li>Sub 2</li>
+                                                            <li>Sub 3</li>
+                                                            <li>Sub 4</li>
+                                                            <li>Sub 5</li>
+                                                        </ol>
+                                                    </details>
+                                                </li>
+                                                <li>
+                                                    <details>
+                                                        <summary> Sem 8</summary><u>Subjects</u>
+                                                        <ol>
+                                                            <li>Sub 1</li>
+                                                            <li>Sub 2</li>
+                                                            <li>Sub 3</li>
+                                                            <li>Sub 4</li>
+                                                            <li>Sub 5</li>
+                                                        </ol>
+                                                    </details>
+                                                </li>
+                                            </ul>
+                                        </details>
+                                    </li>
+                                </ol>
+                            </details>
+                        </li>
+                    </td>
+                    <td><section id="c"><details><summary><img src="firstpic.jpg" height="100px" width="100px"></summary>
+                        <ul>
+                            <li><img src="pic5.jpg" height="200px" width="200px"></li>
+                            <li><img src="pic14.jpg" height="200px" width="200px"></li>
+                            <li><img src="pic20.jpg" height="200px" width="200px"></li>
+                            <li><img src="pic33.jpg" height="200px" width="200px"></li>
+                        </ul></details></section></td>
+                </ul>
+            </tr>
+            
+        </table>
+    </section>
+    <section id="a">
+        <table id="acsec">
+            <ul>
+                <tr>
+                    <td>
+                        <li class="det">
+                            <details>
+                                <summary>About College</summary>
+                                <div id="ac">Bangalore College of Engineering and Technology (BCET) is one among the
+                                    teaching and
+                                    research Institutes. The Institute strives towards providing education that
+                                    inspires students.
+                                    This 20 year old institution that comes under COMEDK and CET Karnataka. BCET is
+                                    affialiated to
+                                    Visvesvaraya Technological University (VTU) belagavi, approved by AICTE New
+                                    Delhi and recognized
+                                    by Government of Karnataka
+
+                                    Bangalore College of Engineering & Technology (BCET) was founded in 2000 by
+                                    Bangalore
+                                    Educational Trust to impart quality education in a stimulating and innovative
+                                    environment where
+                                    students are empowered with knowledge and professional skills while upholding
+                                    the values of
+                                    integrity, tolerance and mutual respect. Since its inception the Bangalore
+                                    Educational Trust has
+                                    promoted education in the areas of Engineering & Technology, Nursing, Edcation.
+
+                                    Highly qualified, well experienced & competent research oriented faculty,
+                                    motivating and
+                                    creating an environment for students to develop their skills and strengthen
+                                    their knowledge. The
+                                    strength of BCET lies in its choice of faculty members, all of whom have vast
+                                    experience in
+                                    addition to enviable academic qualifications; faculty members are into research
+                                    which helps them
+                                    in creating knowledge and delivering the same to students. This makes the
+                                    institution
+                                    academically vibrant.</div>
+                            </details>
+                        </li>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <li class="det">
+                            <details>
+                                <summary>Faculty details</summary>
+                                <div class="faculty">
+                                    <ul>
+                                        <li>
+                                            <details><img src="principal_bcet.png" height="100px" width="100px">
+                                                <summary> Principal</summary>
+                                        </li>
+
+                                        <li>
+                                            <details>
+                                                <summary>CSE department</summary>
+                                                <ol>
+                                                    <li>HOD : xxx</li>
+                                                    <li>mem 1</li>
+                                                    <li>mem 2</li>
+                                                    <li>mem 3</li>
+                                                </ol>
+                                            </details>
+                                        </li>
+                                        <li>
+                                            <details>
+                                                <summary>ME department</summary>
+                                                <ol>
+                                                    <li>HOD : xxx</li>
+                                                    <li>mem 1</li>
+                                                    <li>mem 2</li>
+                                                    <li>mem 3</li>
+                                                </ol>
+                                            </details>
+                                        </li>
+                                        <li></li>
+                                        <li>
+                                            <details>
+                                                <summary>Civil department</summary>
+                                                <ol>
+                                                    <li>HOD : xxx</li>
+                                                    <li>mem 1</li>
+                                                    <li>mem 2</li>
+                                                    <li>mem 3</li>
+                                                </ol>
+                                            </details>
+                                        </li>
+                                        <li>
+                                            <details>
+                                                <summary>Other faculty</summary>
+                                                <ol>
+                                                    <li>mem 1</li>
+                                                    <li>mem 2</li>
+                                                    <li>mem 3</li>
+                                                </ol>
+                                            </details>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </details>
+                        </li>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <li class="det">
+                            <details>
+                                <summary>Contact Details</summary>
+                                <div class="faculty">
+                                    <h4>College Principal- 9487819131</h4>
+                                    <h4>College Admin- 8073576672</h4>
+                                    <h4>Email- bcetcollege@yahoo.com</h4>
+                                </div>
+                            </details>
+                        </li>
+                    </td>
+                </tr>
+            </ul>
+
+        </table>
+    </section>
+    
+    <footer id="foot"><mark>Author::Manisha Kumari</mark></footer>
+</body>
+
+</html>
